@@ -150,7 +150,9 @@
   * Remove the gray background color from active links in IE 10.
   */
  a {
-   background-color: transparent; }
+   background-color: transparent;
+   color: #000; 
+   text-decoration: none; }
 
  /**
   * Improve readability when focused and also mouse hovered in all browsers.
